@@ -1,0 +1,3 @@
+[submodule "OpenSCAD-test"]
+	path = OpenSCAD-test
+	url = https://github.com/LeonidDybovskij/OpenSCAD-test.git
