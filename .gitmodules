@@ -6,3 +6,7 @@
 	path = HW1
 	url = https://github.com/LeonidDybovskij/HW1.git
 	branch = main
+[submodule "HW3"]
+	path = HW3
+	url = https://github.com/LeonidDybovskij/HW3.git
+	branch = main
