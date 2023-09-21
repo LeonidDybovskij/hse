@@ -1,3 +1,8 @@
 [submodule "OpenSCAD-test"]
 	path = OpenSCAD-test
 	url = https://github.com/LeonidDybovskij/OpenSCAD-test.git
+	branch = main
+[submodule "HW1"]
+	path = HW1
+	url = https://github.com/LeonidDybovskij/HW1.git
+	branch = main
