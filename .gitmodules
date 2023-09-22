@@ -26,3 +26,27 @@
 	path = hse21_hw3
 	url = https://github.com/LeonidDybovskij/hse21_hw3.git
 	branch = main
+[submodule "hse_hw1_meth"]
+	path = hse_hw1_meth
+	url = https://github.com/LeonidDybovskij/hse_hw1_meth.git
+	branch = main
+[submodule "hse_hw2_chip"]
+	path = hse_hw2_chip
+	url = https://github.com/LeonidDybovskij/hse_hw2_chip.git
+	branch = main
+[submodule "hse_hw3_chromhmm"]
+	path = hse_hw3_chromhmm
+	url = https://github.com/LeonidDybovskij/hse_hw3_chromhmm.git
+	branch = main
+[submodule "hse_hw4_scRNAseq"]
+	path = hse_hw4_scRNAseq
+	url = https://github.com/LeonidDybovskij/hse_hw4_scRNAseq.git
+	branch = main
+[submodule "hse_project_plasmodium"]
+	path = hse_project_plasmodium
+	url = https://github.com/LeonidDybovskij/hse_project_plasmodium.git
+	branch = main
+[submodule "hse_project_group"]
+	path = hse_project_group
+	url = https://github.com/LeonidDybovskij/hse_project_group.git
+	branch = main
