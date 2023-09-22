@@ -10,3 +10,7 @@
 	path = HW3
 	url = https://github.com/LeonidDybovskij/HW3.git
 	branch = main
+[submodule "Ludwig"]
+	path = Ludwig
+	url = https://github.com/LeonidDybovskij/Ludwig.git
+	branch = main
