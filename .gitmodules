@@ -14,3 +14,7 @@
 	path = Ludwig
 	url = https://github.com/LeonidDybovskij/Ludwig.git
 	branch = main
+[submodule "hse21_hw1"]
+	path = hse21_hw1
+	url = https://github.com/LeonidDybovskij/hse21_hw1.git
+	branch = main
