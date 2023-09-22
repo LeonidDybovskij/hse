@@ -18,3 +18,11 @@
 	path = hse21_hw1
 	url = https://github.com/LeonidDybovskij/hse21_hw1.git
 	branch = main
+[submodule "hse21_hw2"]
+	path = hse21_hw2
+	url = https://github.com/LeonidDybovskij/hse21_hw2.git
+	branch = main
+[submodule "hse21_hw3"]
+	path = hse21_hw3
+	url = https://github.com/LeonidDybovskij/hse21_hw3.git
+	branch = main
