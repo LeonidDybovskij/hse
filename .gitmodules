@@ -1,15 +1,3 @@
-[submodule "HW1"]
-	path = HW1
-	url = https://github.com/LeonidDybovskij/HW1.git
-	branch = main
-[submodule "HW3"]
-	path = HW3
-	url = https://github.com/LeonidDybovskij/HW3.git
-	branch = main
-[submodule "Ludwig"]
-	path = Ludwig
-	url = https://github.com/LeonidDybovskij/Ludwig.git
-	branch = main
 [submodule "hse21_hw1"]
 	path = hse21_hw1
 	url = https://github.com/LeonidDybovskij/hse21_hw1.git
